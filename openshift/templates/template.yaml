@@ -57,7 +57,7 @@ objects:
       contextDir: ""
       git:
         ref: ""
-        uri: ""
+        uri: ${SOURCE_REPOSITORY_URL}
       type: Git
     strategy:
       sourceStrategy:
